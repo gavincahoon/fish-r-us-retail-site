@@ -14,10 +14,6 @@ Includes PHP front-end, MySQL database schema, and complete system documentation
 - ERDs, context-level diagrams, and data flow documentation
 - Database optimized for faster queries
 
-## Screenshots
-![ERD Diagram](docs/diagrams/ERD.pdf)
-![Use Case Documents](docs/diagrams/Use_Case_Documents)
-
 ## How to Run Locally
 1. Load the PHP files and images into a local server environment (XAMPP or MAMP).
 2. Import `src/sql/Fish_R_US.sql` into MySQL or phpMyAdmin
